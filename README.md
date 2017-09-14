@@ -1,6 +1,6 @@
 # Ideas Board Mobile App
 
-![iOS Demo animation](github.com/jonstep/ideas-board-mobile/blob/master/demo/iOSDemo.gif)
+![iOS Demo animation](https://github.com/jonstep/ideas-board-mobile/blob/master/demo/iOSDemo.gif)
 
 Assumes:
 - node/yarn installed and added to path ('node -v' to check node, 'yarn --version' to check yarn)
