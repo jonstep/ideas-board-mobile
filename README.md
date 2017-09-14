@@ -8,7 +8,7 @@ Assumes:
 
 To install/run:
 1. Navigate to ideas-board-mobile folder
-> cd ./ideas-board-app
+> cd ./ideas-board-mobile
 
 2. Install packages/depencies
 > yarn
