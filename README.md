@@ -2,6 +2,14 @@
 
 ![iOS Demo animation](https://github.com/jonstep/ideas-board-mobile/blob/master/demo/iOSDemo.gif)
 
+[Android Demonstration APK](https://github.com/jonstep/ideas-board-mobile/blob/master/demo/Ideas.apk)
+
+See also:
+
+[Ideas Board API](https://github.com/jonstep/ideas-board-api)
+
+[Ideas Board Web](https://github.com/jonstep/ideas-board-app)
+
 Assumes:
 - node/yarn installed and added to path ('node -v' to check node, 'yarn --version' to check yarn)
 - Android/iOS development environment setup
