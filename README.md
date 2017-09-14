@@ -2,7 +2,7 @@
 
 ![iOS Demo animation](https://github.com/jonstep/ideas-board-mobile/blob/master/demo/iOSDemo.gif)
 
-[Android Demonstration APK](https://github.com/jonstep/ideas-board-mobile/blob/master/demo/Ideas.apk)
+[Android Demonstration APK](https://github.com/jonstep/ideas-board-mobile/raw/master/demo/Ideas.apk)
 
 See also:
 
